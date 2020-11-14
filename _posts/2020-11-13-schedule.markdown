@@ -9,4 +9,4 @@ image: false
 
 The schedule of the workshop is online [here](https://codi-workshop.github.io/schedule/)! 
 
-Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos before the workshop**! We'll add the link to the videos on the EMNLP website as soon as it's made available.
+Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos before the workshop**! They are already available on the virtual platform, you can access them using the login information you received by email.
