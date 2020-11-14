@@ -9,7 +9,7 @@ hide_footer: true
 
 # Workshop date: **20 November, 2020**
 
-Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos on EMNLP website before the workshop**!
+Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos on EMNLP website before the workshop**! They are already available on the virtual platform, you can access them using the login information you received by email.
 
 Links for the QA sessions will be provided by the organizers.
 
