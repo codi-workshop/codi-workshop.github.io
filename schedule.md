@@ -15,9 +15,9 @@ Links for the QA sessions will be provided by the organizers.
 
 ## Detailed schedule: Time Zone UTC
 
-|     Day    | Time Zone: UTC  |                                                                                                  Session                                                                                                 |                Chairs               |   |
-|:----------:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|---|
-| 2020-11-20 |   1:00-1:10pm   |                                                                                              **Opening remarks**                                                                                             |                                     |   |
+|     Day    | Time Zone: UTC  |                                                                                                  Session                                                                                                 |                Chairs               |
+|:----------:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
+| 2020-11-20 |   1:00-1:10pm   |                                                                                              **Opening remarks**                                                                                             |                                     |
 | 2020-11-20 |   1:10-2:00pm   |                                                                                 **Discussion on next year workshop and SIG**                                                                                 |                                     |   |
 | 2020-11-20 |   2:00-3:00pm   |                                                                                         **[Keynote talk: Eunsol Choi, *Learning to Understand Language in Context*](https://codi-workshop.github.io/invited-speakers/)**                                                                                        |                                     |   |
 | 2020-11-20 |   3:00-3:15pm   |                                                                                                   **break**                                                                                                  |                                     |   |
@@ -83,7 +83,7 @@ Links for the QA sessions will be provided by the organizers.
 |      Discussion and closing remarks      |        6:45 -       | 7:30 PM|
 
 
-## Schedule of the workshop: Time Zone UTC -5 - US Chicago AM
+## Schedule of the workshop: Time Zone UTC -6 - US Chicago AM
 
 
 |               Session Name              |               |       |
