@@ -38,7 +38,7 @@ hide_footer: true
 **Short papers:**
 * TED-MDB Lexicons: TrEnConnLex, PtEnConnLex,
  	*Murathan Kurfalı, Sibel Ozer, Deniz Zeyrek and Amália Mendes*
-* Eliminating Mention Overlaps: Evaluation of Coreference Resolution Systems Under Adversarial Attacks,
+* Evaluation of Coreference Resolution Systems Under Adversarial Attacks,
  	*Haixia Chai, Wei Zhao, Steffen Eger and Michael Strube*
 * Coreference for Discourse Parsing: A Neural Approach,
  	*Grigorii Guz and Giuseppe Carenini*
