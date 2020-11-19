@@ -9,11 +9,13 @@ hide_footer: true
 
 # Workshop date: **20 November, 2020**
 
-Link to the virtual EMNLP website, with links to Zoom sessions: (https://virtual.2020.emnlp.org/workshop_WS-16.html)
+Link to the virtual EMNLP website: [The links to the Zoom sessions are in the schedule](https://virtual.2020.emnlp.org/workshop_WS-16.html)
 
-Link to the rocket chat: (https://emnlp2020.rocket.chat/channel/workshop-codi2020)
+Link to the rocket chat: [Join the discussion!](https://emnlp2020.rocket.chat/channel/workshop-codi2020)
 
-Proceedings can be found there: (https://www.aclweb.org/anthology/events/emnlp-2020/#2020codi-1)
+Proceedings are available: [Read the papers](https://www.aclweb.org/anthology/events/emnlp-2020/#2020codi-1)
+
+Informal meetings: join us in Gather room K, L, M or N (let's see tomorrow :)
 
 Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos on EMNLP website before the workshop**! They are already available on the virtual platform, you can access them using the login information you received by email.
 
