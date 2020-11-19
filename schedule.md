@@ -15,7 +15,7 @@ Link to the rocket chat: [Join the discussion!](https://emnlp2020.rocket.chat/ch
 
 Proceedings are available: [Read the papers](https://www.aclweb.org/anthology/events/emnlp-2020/#2020codi-1)
 
-Informal meetings: join us in Gather room K, L, M or N (let's see tomorrow :)
+Informal meetings: join us in **Gather room K**
 
 Note that **the sessions are QA only** with 1-minute madness to present the papers: please **watch the pre-recorded videos on EMNLP website before the workshop**! They are already available on the virtual platform, you can access them using the login information you received by email.
 
