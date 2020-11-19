@@ -15,4 +15,4 @@ Link to the rocket chat: [Join the discussion!](https://emnlp2020.rocket.chat/ch
 
 Proceedings are available: [Read the papers](https://www.aclweb.org/anthology/events/emnlp-2020/#2020codi-1)
 
-Informal meetings: join us in Gather room K, L, M or N (let's see tomorrow :)
+Informal meetings: join us in **Gather room K**
