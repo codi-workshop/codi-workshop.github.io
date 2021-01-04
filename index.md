@@ -8,6 +8,8 @@ hide_footer: true
 
 Endorsed by [SIGDIAL](https://www.sigdial.org/)
 
+**There will be a second edition of the workshop in 2021! More information soon.**
+
 # Workshop on Computational Approaches to Discourse
 
 The last five years have seen a dramatic improvement in the ability of NLP systems to understand and produce words and sentences. This development has created a renewed interest in discourse problems as researchers move towards the processing of long-form text and conversations. There is a surge of activity in discourse parsing, coherence models, text summarization, corpora for discourse level reading comprehension, and discourse related/aided representation learning, to name a few.  At this juncture, we envision that a workshop that brings together discourse experts and upcoming researchers will catalyze the speed and knowledge needed to solve such problems, as well as serve as a forum for the discussion of suitable datasets and reliable evaluation methods. 
