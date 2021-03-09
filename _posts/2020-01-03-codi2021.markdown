@@ -7,6 +7,6 @@ published: true
 image: false
 ---
 
-We are verry happy to announce that CODI 2021 will be held as a 2-days workshop during EMNLP! More information on: (https://sites.google.com/view/codi-2021)
+We are verry happy to announce that CODI 2021 will be held as a 2-days workshop during EMNLP! More information on: https://sites.google.com/view/codi-2021.
 
 Happy new year everyone, and see you in Punta Cana!
