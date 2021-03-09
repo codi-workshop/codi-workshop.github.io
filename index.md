@@ -8,7 +8,7 @@ hide_footer: true
 
 Endorsed by [SIGDIAL](https://www.sigdial.org/)
 
-**There will be a second edition of the workshop in 2021! More information soon.**
+**There will be a second edition of the workshop in 2021: please visit our new website (https://sites.google.com/view/codi-2021)**
 
 # Workshop on Computational Approaches to Discourse
 
